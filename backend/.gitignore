@@ -1,0 +1,23 @@
+# Ignore virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Environment variables
+*.env
+
+# Build and dist folders
+build/
+dist/
+*.egg-info/
